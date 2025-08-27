@@ -52,9 +52,9 @@ Sou um Desenvolvedor Full Stack com **4 anos de experiência** no mercado de TI,
 
 ## 🚀 Projetos em Destaque
 
-- [📄 API de Gestão de Usuários](https://github.com/DaviQuaresma/API_sequelize_typescript) — API completa com autenticação, testes e documentação.
+- [📊 Frente_LojaERP](https://github.com/DaviQuaresma/Frente_LojaERP) — Projeto de Automação de Vendas ERP (PostgreSQL + Node.js).
+- [📶 AstroCure](https://github.com/DaviQuaresma/astroCure) — AstroCure é um sistema distribuído composto por múltiplos serviços.
 - [🌐 Kanban React](https://github.com/DaviQuaresma/ReactKanban) — Aplicação de Kanban construída com React.
-- [⚙️ Catálogo de Filmes](https://github.com/DaviQuaresma/FrontEndDevelopment) — Projeto de estudo em React + API TMDB.
 
 ---
 
