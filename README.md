@@ -55,7 +55,7 @@ Sou um Desenvolvedor Full Stack com **4 anos de experiência** no mercado de TI,
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DaviQuaresma&show_icons=true&theme=radical" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviQuaresma&layout=compact&theme=radical" alt="langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviQuaresma&layout=compact&langs_count=6&hide=html,css,blade,scss&theme=radical" />
 </p>
 
 ---
