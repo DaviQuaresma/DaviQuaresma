@@ -8,7 +8,7 @@
 
 ## 🚀 Sobre Mim
 
-Sou um Desenvolvedor Full Stack com **4 anos de experiência** no mercado de TI, apaixonado por criar aplicações modernas, escaláveis e de alto desempenho. Tenho experiência sólida tanto no **Backend** quanto no **Frontend**, com forte atuação em automação de processos, integração de dados e performance.
+Sou um Desenvolvedor Full Stack com **+5 anos de experiência** no mercado de TI, apaixonado por criar aplicações modernas, escaláveis e de alto desempenho. Tenho experiência sólida tanto no **Backend** quanto no **Frontend**, com forte atuação em automação de processos, integração de dados e performance.
 
 🎓 Atualmente, curso o **8º período de Sistemas de Informação** e estou sempre em busca de desafios que me permitam crescer e contribuir com soluções inovadoras.
 
