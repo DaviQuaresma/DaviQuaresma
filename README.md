@@ -8,9 +8,17 @@
 
 ## 🚀 Sobre Mim
 
-Sou um Desenvolvedor Full Stack com **+5 anos de experiência** no mercado de TI, apaixonado por criar aplicações modernas, escaláveis e de alto desempenho. Tenho experiência sólida tanto no **Backend** quanto no **Frontend**, com forte atuação em automação de processos, integração de dados e performance.
+Engenheiro de Software com 3 anos de experiência profissional em desenvolvimento e ao total +5 anos de atuação na área de tecnologia, transitando por diferentes funções e responsabilidades técnicas.
 
-🎓 Atualmente, curso o **8º período de Sistemas de Informação** e estou sempre em busca de desafios que me permitam crescer e contribuir com soluções inovadoras.
+Atualmente atuo no desenvolvimento de sistemas web escaláveis, com forte foco em backend, arquitetura e performance, trabalhando na construção de APIs robustas, automação de processos e integrações complexas.
+
+Tenho uma abordagem orientada à engenharia de software, priorizando qualidade de código, escalabilidade, boas práticas e decisões arquiteturais sólidas.
+
+🎓 Formação:
+
+Bacharel em Sistemas de Informação
+
+Pós-graduação em Engenharia de Software (em andamento)
 
 ---
 
