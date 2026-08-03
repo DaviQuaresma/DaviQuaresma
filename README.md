@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 Sobre Mim
+🚀 Sobre Mim
 
 Engenheiro de Software com 3 anos de experiência profissional em desenvolvimento e ao total +5 anos de atuação na área de tecnologia, transitando por diferentes funções e responsabilidades técnicas.
 
@@ -14,7 +14,7 @@ Atualmente atuo no desenvolvimento de sistemas web escaláveis, com forte foco e
 
 Tenho uma abordagem orientada à engenharia de software, priorizando qualidade de código, escalabilidade, boas práticas e decisões arquiteturais sólidas.
 
-🎓 Formação:
+## 🎓 Formação:
 
 Bacharel em Sistemas de Informação
 
