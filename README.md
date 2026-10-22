@@ -1,24 +1,20 @@
-<h1 align="center">👋 Olá, eu sou o Davi Quaresma!</h1>
+<h1 align="center">👋 Hi, I'm Davi Quaresma!</h1>
 
 <p align="center">
-  🚀 Desenvolvedor Full Stack | Apaixonado por eficiência, performance e tecnologia
+  Mid-level Full Stack Engineer | PHP/Laravel, TypeScript & React | Web Applications & APIs
 </p>
 
 ---
 
-🚀 Sobre Mim
+Im a Mid-level Full Stack Engineer with 3 years of professional software development experience and over 6 years in the technology industry, building and evolving business-critical web applications.
 
-Engenheiro de Software com 3 anos de experiência profissional em desenvolvimento e ao total +5 anos de atuação na área de tecnologia, transitando por diferentes funções e responsabilidades técnicas.
+My primary stack is PHP/Laravel and JavaScript/TypeScript, with experience across backend development, React, REST APIs, system integrations, and relational databases. I focus on translating complex business requirements into maintainable software, with an emphasis on architecture, performance, and long-term reliability.
 
-Atualmente atuo no desenvolvimento de sistemas web escaláveis, com forte foco em backend, arquitetura e performance, trabalhando na construção de APIs robustas, automação de processos e integrações complexas.
+I value technical ownership, clear communication, and close collaboration with stakeholders to deliver practical solutions to real business problems.
 
-Tenho uma abordagem orientada à engenharia de software, priorizando qualidade de código, escalabilidade, boas práticas e decisões arquiteturais sólidas.
+## 🎓 Education:
 
-## 🎓 Formação:
-
-Bacharel em Sistemas de Informação
-
-Pós-graduação em Engenharia de Software (em andamento)
+Currently pursuing a postgraduate specialization in Software Engineering.
 
 ---
 
@@ -42,19 +38,14 @@ Pós-graduação em Engenharia de Software (em andamento)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Banco de Dados:**  
+**Databases:**  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-**Automação & Web Scraping:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-*Crawlers, automação de tarefas, extração e processamento de dados*
-
 **Infra & Cloud:**  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) 
-![Hetzner](https://img.shields.io/badge/Hetzner-D50C2D?style=for-the-badge&logo=hetzner&logoColor=white) 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
@@ -68,15 +59,7 @@ Pós-graduação em Engenharia de Software (em andamento)
 
 ---
 
-## 🚀 Projetos em Destaque
-
-- [📊 Frente_LojaERP](https://github.com/DaviQuaresma/Frente_LojaERP) — Projeto de Automação de Vendas ERP (PostgreSQL + Node.js).
-- [📶 AstroCure](https://github.com/DaviQuaresma/astroCure) — AstroCure é um sistema distribuído composto por múltiplos serviços.
-- [🌐 Kanban React](https://github.com/DaviQuaresma/ReactKanban) — Aplicação de Kanban construída com React.
-
----
-
-## 📩 Contato
+## 📩 Contact
 
 [![Linkedin Badge](https://img.shields.io/badge/-DaviQuaresma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daviquaresma/)](https://www.linkedin.com/in/daviquaresma/)
 [![Gmail Badge](https://img.shields.io/badge/-quaresma.davi@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:quaresma.davi@gmail.com)](mailto:quaresma.davi@gmail.com)
@@ -84,4 +67,4 @@ Pós-graduação em Engenharia de Software (em andamento)
 
 ---
 
-✨ Obrigado por visitar meu perfil!
+✨ Thank you for visit my profile!
