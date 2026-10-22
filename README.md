@@ -50,7 +50,7 @@ Currently pursuing a postgraduate specialization in Software Engineering.
 
 ---
 
-## 📈 Estatísticas
+## 📈 Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DaviQuaresma&show_icons=true&theme=radical" alt="stats" />
