@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/daviquaresma/">
+  <a href="https://www.linkedin.com/in/davi-quaresma/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" />
   </a>
   <a href="https://davi-portfolio.vercel.app/">
