@@ -4,18 +4,6 @@
   <strong>Software Engineer | Backend Development | PHP/Laravel & TypeScript</strong>
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/davi-quaresma/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" />
-  </a>
-  <a href="https://davi-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=flat-square&logo=vercel" />
-  </a>
-  <a href="mailto:quaresma.davi@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
 ---
 
 ## 🚀 About Me
@@ -97,36 +85,11 @@ My approach is based on understanding the fundamentals and building practical pr
 
 ---
 
-## 📈 GitHub Statistics
-
-<p align="center">
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=DaviQuaresma&show_icons=true&theme=radical&hide_border=true&include_all_commits=true"
-    alt="Davi's GitHub statistics"
-  />
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviQuaresma&layout=compact&langs_count=6&hide=html,css,blade,scss&theme=radical&hide_border=true"
-    alt="Most used programming languages"
-  />
-</p>
-
----
-
 ## 📩 Contact
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/daviquaresma/">
-    <img src="https://img.shields.io/badge/LinkedIn-Davi%20Quaresma-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:quaresma.davi@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://davi-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=flat-square&logo=vercel&logoColor=white" />
-  </a>
-</p>
+[![Linkedin Badge](https://img.shields.io/badge/-DaviQuaresma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daviquaresma/)](https://www.linkedin.com/in/daviquaresma/)
+[![Gmail Badge](https://img.shields.io/badge/-quaresma.davi@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:quaresma.davi@gmail.com)](mailto:quaresma.davi@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Meu%20Portfólio-000?style=flat-square&logo=vercel&logoColor=white)](https://davi-portfolio.vercel.app/)
 
 ---
 
